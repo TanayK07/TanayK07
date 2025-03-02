@@ -8,19 +8,9 @@
   </a>
 </p>
 
-- 🌱 I’m currently exploring **Next.js and AI-powered front-end tools**
-
-- 👯 I’m looking to collaborate on **innovative React.js and AI-driven web projects**
-
-- 🤝 I’m eager to contribute to **Open Source Development** and build impactful tools.
-
 - 📝 I write about web development and tech trends on [Medium](https://medium.com/@tanaykedia)
 
-- 👨‍💻 Check out all my projects on [My Portfolio](https://linktr.ee/Tanay_Projects)
-
 - 📫 Reach me at **tkedia7@gmail.com**
-
-- 📄 Learn more about my experiences [here](https://bit.ly/Tanaykedia)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
